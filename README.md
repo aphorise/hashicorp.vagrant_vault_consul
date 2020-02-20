@@ -1,4 +1,4 @@
-# HashiCrop `vagrant` template of **`vault`** with **`consul`**
+# HashiCorp `vagrant` template of **`vault`** with **`consul`**
 This repo contains a `Vagrantfile` mocking an example [Vault](https://www.vaultproject.io/) + [Consul](https://www.consul.io/) cluster / setup defaults to a multi-node cluster of three (3) Consul & two (2) Vault instances. [Learning material on vault demonstrate](https://learn.hashicorp.com/vault/day-one/ops-vault-ha-consul) and 
 [operational  reference architecture](https://learn.hashicorp.com/vault/operations/ops-reference-architecture).
 
